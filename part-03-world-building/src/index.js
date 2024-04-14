@@ -16,7 +16,7 @@ const config = {
         }
     },
 
-    autoFocus: false,
+    autoFocus: true,
     scene: { preload, create, update },
     backgroundColor: "#eee"
 };

@@ -8,7 +8,7 @@ const config = {
     scaleMode: Scale.ScaleModes.FIT,
     autoCenter: Scale.Center.CENTER_BOTH,
 
-    autoFocus: false,
+    autoFocus: true,
     scene: { preload, create, update },
     backgroundColor: "#eee"
 };

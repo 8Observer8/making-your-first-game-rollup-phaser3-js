@@ -1,6 +1,6 @@
 My port of the [Making your first Phaser 3 game](https://phaser.io/tutorials/making-your-first-phaser-3-game) tutorial examples to Rollup
 
-[Topic on the Phaser forum](https://phaser.discourse.group/t/please-help-me-to-update-the-mdn-2d-breakout-tutorial-to-phaser-3-80-1/14203)
+[Topic on the Phaser forum](https://phaser.discourse.group/t/i-cannot-control-a-character-on-the-plunker-playground-in-preview/14213)
 
 Playground:
 

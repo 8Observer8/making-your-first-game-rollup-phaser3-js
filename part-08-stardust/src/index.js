@@ -1,7 +1,7 @@
-import { AUTO, Game, Math, Scale } from "phaser3";
+import { WEBGL, Game, Math, Scale } from "phaser3";
 
 const config = {
-    type: AUTO,
+    type: WEBGL,
 
     width: 800,
     height: 600,
